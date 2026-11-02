@@ -19,3 +19,9 @@ jobs:
       - name: Check Linux version
         run: uname -a 
 
+      - name: Name 
+        run: echo "My name is Avej Lanjekar"
+
+      - name: PWD
+        run: pwd
+
